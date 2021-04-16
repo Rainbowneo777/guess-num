@@ -13,4 +13,3 @@ while True:
 		print('比答案大')
 	elif num < r:
 		print('比答案小')
-	print('這是你猜的第', count, '次')
